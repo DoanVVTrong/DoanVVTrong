@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+My name is Văn Trọng. I am studying software engineering at Duy Tan, my goal is to become a good web programmer<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
@@ -71,6 +71,7 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Deeplab-pytorch&theme=onedark" />
 </a>
 
+<<<<<<< HEAD
 <a href="https://github.com/uvipen/Character-level-cnn-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-pytorch&theme=cobalt" />
@@ -88,3 +89,23 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
 </a>
+=======
+<a href="https://github.com/uvipen/Character-level-cnn-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-pytorch&theme=cobalt" />
+</a>    
+<a href="https://github.com/uvipen/Character-level-cnn-tensorflow/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-tensorflow&theme=synthwave" />
+</a>
+
+<a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
+</a>    
+<a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
+</a>
+
+>>>>>>> e9221f2e4211e5e2d19996bcfcc61b4343a98b66
